@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Haiech</h1>
+r <h1 align="center">Hi 👋, I'm Haiech</h1>
 <h3 align="center">A Persian game developer</h3>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
     <a
             href="https://www.java.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
