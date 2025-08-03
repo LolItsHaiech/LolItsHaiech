@@ -1,4 +1,4 @@
-r <h1 align="center">Hi 👋, I'm Haiech</h1>
+<h1 align="center">Hi 👋, I'm Haiech</h1>
 <h3 align="center">A Persian game developer</h3>
 
 
